@@ -66,7 +66,6 @@ export default function AppHeader() {
         Add Asset
       </Button>
       <Modal
-        title="Basic Modal"
         open={modal}
         onOk={() => setModal(false)}
         onCancel={() => setModal(false)}
