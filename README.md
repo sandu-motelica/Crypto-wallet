@@ -35,3 +35,7 @@ To install and run the project, follow these steps:
    ```bash
    npm run dev
    ```
+
+### Live Demo
+
+You can access the live demo of Crypto-Wallet [here](https://sm-cryptowallet.netlify.app/).
