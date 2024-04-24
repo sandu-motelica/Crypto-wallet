@@ -1,6 +1,6 @@
-# Crypto-Wallet
+# Crypto-wallet
 
-Crypto-Wallet is a web application developed in ReactJS and Ant Design. It allows users to manage their cryptocurrency wallets.
+Crypto-wallet is a web application developed in ReactJS and Ant Design. It allows users to manage their cryptocurrency wallets.
 
 ## Features
 
