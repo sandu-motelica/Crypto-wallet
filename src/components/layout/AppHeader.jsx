@@ -12,7 +12,6 @@ const headerStyle = {
   display: "flex",
   justifyContent: "space-between",
   alignItems: "center",
-  // backgroundColor: "#fff",
 };
 export default function AppHeader() {
   const [select, setSelect] = useState(false);
